@@ -361,6 +361,26 @@ PrefabInstance:
       propertyPath: m_Color.g
       value: 0.22726493
       objectReference: {fileID: 0}
+    - target: {fileID: 1902924646452489103, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902924646452489103, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902924646452489103, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902924646452489103, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e217a2a3a0d2f0d4e874482c2b573b0b, type: 3}
 --- !u!1001 &737500889
@@ -433,6 +453,26 @@ PrefabInstance:
     - target: {fileID: 2157886092745105406, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902924646452489103, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902924646452489103, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902924646452489103, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902924646452489103, guid: e217a2a3a0d2f0d4e874482c2b573b0b,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -709,7 +749,7 @@ PrefabInstance:
     - target: {fileID: 5881379279778410488, guid: ca06f000513f76047be43b371a8f516d,
         type: 3}
       propertyPath: m_Name
-      value: Game Status
+      value: Game Session
       objectReference: {fileID: 0}
     - target: {fileID: 5881379279778410490, guid: ca06f000513f76047be43b371a8f516d,
         type: 3}
